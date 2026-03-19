@@ -1,6 +1,6 @@
-//    Apuntes de clase: 10/03/2026
+//    ************************** Apuntes de clase: 10/03/2026 ************************************
 
-//Arreglos en JavaScript
+// ****************************** Arreglos en JavaScript ********************************* */
 
 // Un arreglo es una estructura de datos que puede contener una colección de elementos, como números, cadenas de texto, objetos, etc. 
 // En JavaScript, los arreglos se definen utilizando corchetes [] y los elementos se separan por comas. 
