@@ -1,4 +1,4 @@
-# Módulo 3: Lógica y Algoritmos
+# Módulo 4: Lógica y Algoritmos
 
 ---
 En este repositorio se encontrarán los ejemplos y ejercicios desarrollados dentro del Módulo 4: Lógica y Algoritmos.
@@ -27,4 +27,4 @@ El objetivo de este proyecto es permitir que los estudiantes practiquen mediante
 * Se dividen en varios tipos de archivos: El primer tipo de archivos tiene por nombre 'Apuntes_clase.js' donde se registran los subtemas vistos en clases. 
 * El segundo tipo tendrá por nombre "Ejemplos" seguido del tema.
 * El tercer tipo tendrá por nombre "Ejercicio_practico" seguido de un subtema visto.
-* El cuarto tipo tendrá un nombre propio que será el reto a resolver.
+* Dentro del temario se encuentran los enlaces de los repositorios relacionados con las prácticas/proyectos 
