@@ -11,11 +11,15 @@ El objetivo de este proyecto es permitir que los estudiantes practiquen mediante
 ---
 
 ## Temas vistos:
-- 1. Introducción a ECMAScript.
+1. Introducción a ECMAScript.
     - 1.1. Introducción a ECMAScript.
     - 1.2. Ejemplos del Uso de ECMAScript.
-    - 1.3. Práctica: Introducción a ECMAScript.
-
+    - 1.3. [Práctica: Introducción a ECMAScript.] (https://github.com/ettijoseangel/Proyecto-Introduccion-a-ECMAScript.git)
+2. Estructura de Datos.
+    - 2.1. Introducción a Estructuras de Datos.
+    - 2.2. Estructuras de Datos Comunes en JS.
+    - 2.3. Otras Estructuras de Datos Comunes en Desarrollo de Software.
+    - 2.4. [Práctica: Estructura de Datos.] (https://github.com/ettijoseangel/Proyecto-Estructura-de-Datos.git)
 ---
 
 ## Instrucciones para entender los apuntes:
