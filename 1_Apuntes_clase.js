@@ -1,5 +1,5 @@
 //Recordando el modulo pasado
-//    Apuntes de clase: 05/03/2026
+//    ***************** Apuntes de clase: 05/03/2026 ****************************
 
 //Declaracion de variables con let, const y var
 

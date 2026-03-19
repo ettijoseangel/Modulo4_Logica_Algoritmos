@@ -1,0 +1,26 @@
+# Módulo 3: Lógica y Algoritmos
+
+---
+En este repositorio se encontrarán los ejemplos y ejercicios desarrollados dentro del Módulo 4: Lógica y Algoritmos.
+
+---
+
+## 🔴 Objetivo del repositorio
+El objetivo de este proyecto es permitir que los estudiantes practiquen mediante ejercicios relacionados con problemas lógicos.
+
+---
+
+## Temas vistos:
+- 1. Introducción a ECMAScript.
+    - 1.1. Introducción a ECMAScript.
+    - 1.2. Ejemplos del Uso de ECMAScript.
+    - 1.3. Práctica: Introducción a ECMAScript.
+
+---
+
+## Instrucciones para entender los apuntes:
+* Cada tema se compone de diversos archivos. 
+* Se dividen en varios tipos de archivos: El primer tipo de archivos tiene por nombre 'Apuntes_clase.js' donde se registran los subtemas vistos en clases. 
+* El segundo tipo tendrá por nombre "Ejemplos" seguido del tema.
+* El tercer tipo tendrá por nombre "Ejercicio_practico" seguido de un subtema visto.
+* El cuarto tipo tendrá un nombre propio que será el reto a resolver.

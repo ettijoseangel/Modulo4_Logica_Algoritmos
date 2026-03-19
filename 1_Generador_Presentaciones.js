@@ -1,4 +1,4 @@
-//                                                             Ejercicio: Generador de Tarjetas de Presentación
+//      ************************   Ejercicio: Generador de Tarjetas de Presentación    **************************
 
 //     Objetivo: 
 //      Crear un programa que genere tarjetas de presentación personalizadas utilizando funciones flecha y template literals.
