@@ -20,6 +20,10 @@ El objetivo de este proyecto es permitir que los estudiantes practiquen mediante
     - 2.2. Estructuras de Datos Comunes en JS.
     - 2.3. Otras Estructuras de Datos Comunes en Desarrollo de Software.
     - 2.4. [Práctica: Estructura de Datos.](https://github.com/ettijoseangel/Proyecto-Estructura-de-Datos.git)
+3. Métodos de Arreglos.
+    - 3.1. Métodos de Arreglos (find, map, filter, forEach).
+    - 3.2. Métodos de Arreglos (sort, reduce, some, every).
+    - 3.3. [Práctica: Métodos de Arreglos.](https://github.com/ettijoseangel/Proyecto-Metodos-de-Arreglos.git)
 ---
 
 ## Instrucciones para entender los apuntes:

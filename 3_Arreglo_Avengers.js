@@ -1,4 +1,4 @@
-// Reto: Operaciones sobre Objetos
+// *************************** Reto: Operaciones sobre Objetos *********************
 
 // El arreglo es el siguiente:
 const avengers = [

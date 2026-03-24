@@ -1,6 +1,6 @@
-//    Apuntes de clase: 12/03/2026
+//    ************************** Apuntes de clase: 12/03/2026 ******************************
 
-//  Metodos en Arreglos: Segunda parte
+//  *********************    Metodos en Arreglos: Segunda parte **********************
 
 // ***********************************
 console.log('*******************');
